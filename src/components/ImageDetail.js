@@ -13,7 +13,6 @@ const ImageDetail = (props) => {
 };
 
 const style = StyleSheet.create({
-
 });
 
 export default ImageDetail;
